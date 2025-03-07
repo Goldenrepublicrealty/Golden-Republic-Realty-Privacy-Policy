@@ -79,37 +79,17 @@ about the personal information we maintain about you and how we have processed i
 through instances where you interact with us in person, online, or by phone or mail in the context of:
 Receiving help through our customer support channels; participation in customer surveys or contests; and facilitation in the delivery of our Services and to respond to your inquiries.
 
-Will your information be shared with anyone else? 
+11. Will your information be shared with anyone else? 
 We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?" We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information. We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
 
-Your Rights
-You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include: 
-Right to know whether or not we are processing your personal data
-Right to access your personal data
-Right to correct inaccuracies in your personal data
-Right to request the deletion of your personal data
-Right to obtain a copy of the personal data you previously shared with us
-Right to non-discrimination for exercising your rights
-Right to opt out of the processing of your personal data if it is used for targeted advertising (or sharing as defined under California’s
-privacy law), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects
-("profiling") 
-Depending upon the state where you live, you may also have the following rights:
-Right to access the categories of personal data being processed (as permitted by applicable law, including Minnesota’s privacy law)
-Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including California's and Delaware's privacy law) 
-Right to obtain a list of specific third parties to which we have disclosed personal data (as permitted by applicable law, including
-Minnesota's and Oregon's privacy law)
-Right to review, understand, question, and correct how personal data has been profiled (as permitted by applicable law, including
-Minnesota’s privacy law)
-Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including California’s privacy law)
-Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition
-feature (as permitted by applicable law, including Florida’s privacy law)
+12. Your Rights
+You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include: Right to know whether or not we are processing your personal data, Right to access your personal data, Right to correct inaccuracies in your personal data, Right to request the deletion of your personal data, Right to obtain a copy of the personal data you previously shared with us, Right to non-discrimination for exercising your rights, Right to opt out of the processing of your personal data if it is used for targeted advertising (or sharing as defined under California’s privacy law), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling"). Depending upon the state where you live, you may also have the following rights: Right to access the categories of personal data being processed (as permitted by applicable law, including Minnesota’s privacy law), Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including California's and Delaware's privacy law), Right to obtain a list of specific third parties to which we have disclosed personal data (as permitted by applicable law, including, Minnesota's and Oregon's privacy law), Right to review, understand, question, and correct how personal data has been profiled (as permitted by applicable law, including Minnesota’s privacy law), Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including California’s privacy law), Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition, feature (as permitted by applicable law, including Florida’s privacy law).
 
 How to Exercise Your Rights
 To exercise these rights, you can contact us by submitting a data subject access request, by calling toll-free at 4153790625, or by referring to the contact details at the bottom of this document. Under certain US state data protection laws, you can designate an authorized agent to make a request on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with applicable laws.
 
 Request Verification
-Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information
-in our system. We will only use personal information provided in your request to verify your identity or authority to make the request. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. If you submit the request through an authorized agent, we may need to collect additional information to verify your identity before processing your request and the agent will need to provide a written and signed permission from you to submit such request on your behalf.
+Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. We will only use personal information provided in your request to verify your identity or authority to make the request. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. If you submit the request through an authorized agent, we may need to collect additional information to verify your identity before processing your request and the agent will need to provide a written and signed permission from you to submit such request on your behalf.
 
 Appeals
 Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at Goldenrepublicrealty@gmail.com. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general. 
