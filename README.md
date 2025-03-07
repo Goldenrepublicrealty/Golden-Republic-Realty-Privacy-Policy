@@ -43,7 +43,7 @@ RIGHTS?
 11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-
+---
 
 1. WHAT INFORMATION DO WE COLLECT?
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
