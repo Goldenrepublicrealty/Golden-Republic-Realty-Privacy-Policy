@@ -46,9 +46,7 @@ RIGHTS?
 ---
 
 1. WHAT INFORMATION DO WE COLLECT?
-We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
-
-Services, the choices you make, and the products and features you use. The personal information we collect may include names, phone numbers, email addresses. When necessary, with your consent or as otherwise permitted by applicable law, we process, financial data, information revealing race or ethnic origin, and credit worthiness data. All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
+We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us. Services, the choices you make, and the products and features you use. The personal information we collect may include names, phone numbers, email addresses. When necessary, with your consent or as otherwise permitted by applicable law, we process, financial data, information revealing race or ethnic origin, and credit worthiness data. All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
 2. HOW DO WE PROCESS YOUR INFORMATION?
 We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
