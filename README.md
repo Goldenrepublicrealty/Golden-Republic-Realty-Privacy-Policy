@@ -50,7 +50,6 @@ We collect personal information that you voluntarily provide to us when you expr
 
 2. HOW DO WE PROCESS YOUR INFORMATION?
 We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
-
 To deliver and facilitate delivery of services to the user. We may process your information to provide you with the requested service. To respond to user inquiries/offer support to users. We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service. To send you marketing and promotional communications. We may process the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt out of our marketing emails at any time. For more information, see "WHAT ARE YOUR PRIVACY RIGHTS?" below.
 
 3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
