@@ -43,7 +43,7 @@ RIGHTS?
 11. YOUR RIGHTS?
 12. HOW TO EXERCISE YOUR RIGHTS?
 13. REQUEST VERIFICATION
-14. Appeals
+14. APPEALS
 15. CALIFORNIA "SHINE THE LIGHT" LAW
 16. DO WE MAKE UPDATES TO THIS NOTICE?
 17. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
@@ -88,7 +88,7 @@ Receiving help through our customer support channels; participation in customer 
 10. Will your information be shared with anyone else? 
 We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?" We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information. We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
 
-11. Your Rights
+11. Client Rights
 You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include: Right to know whether or not we are processing your personal data, Right to access your personal data, Right to correct inaccuracies in your personal data, Right to request the deletion of your personal data, Right to obtain a copy of the personal data you previously shared with us, Right to non-discrimination for exercising your rights, Right to opt out of the processing of your personal data if it is used for targeted advertising (or sharing as defined under California’s privacy law), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling"). Depending upon the state where you live, you may also have the following rights: Right to access the categories of personal data being processed (as permitted by applicable law, including Minnesota’s privacy law), Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including California's and Delaware's privacy law), Right to obtain a list of specific third parties to which we have disclosed personal data (as permitted by applicable law, including, Minnesota's and Oregon's privacy law), Right to review, understand, question, and correct how personal data has been profiled (as permitted by applicable law, including Minnesota’s privacy law), Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including California’s privacy law), Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition, feature (as permitted by applicable law, including Florida’s privacy law).
 
 12. How to Exercise Your Rights
